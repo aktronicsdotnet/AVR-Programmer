@@ -14,7 +14,7 @@ Everyone knows that you can use Arduino UNO as a programmer for other AVR MCUs t
 <b>
 How to use AVR-Programmer as a shield for Arduino UNO?
 </b><br>
-This is the easier version, all you need to do is to solder Arduino pin headers (D0 to D13 and power headers) and the ZIF socket. Bam... you are done and now you can upload the AVR as ISP sketch in Arduino ide, plug the shield and use it to program different type of AVR MCUs. Optionally you can populate the R1 and R2 with their respected LEDS to be able to visually see the progress of programming your MCUs and perhaps populate the external crystal socket, C5 and C6 to use external clocks with your MCUs.
+This is the easier version; all you need to do is to solder Arduino pin headers (D0 to D13 and power headers) and the ZIF socket. Bam... you are done and now you can upload the AVR as ISP sketch in Arduino ide, plug the shield and use it to program different type of AVR MCUs. Optionally you can populate the R1 and R2 with their respected LEDS to be able to visually see the progress of programming your MCUs and perhaps populate the external crystal socket, C5 and C6 to use external clocks with your MCUs.
 <br><br>
 
 <b>
@@ -32,5 +32,5 @@ To my understanding you need to have one AVR programmer or at least an Arduino U
 <b>
 What can I do with AAVR-Programmer as standalone USBASP?
 </b><br>
-Well in this case you can use the MicroUSB port to burn the bootloader or program any AVR MCUs that are supported by USBASP. You can directly plug it on Arduino UNO to burn the bootloader or program them, in this case close the Hardware Reset jumper or you can use this board to program other arduino boards with the 6 pin ISP connector with the standard pinout. 
+Well in this case you can use the Micro USB port to burn the bootloader or program any AVR MCUs that are supported by USBASP. You can directly plug it on Arduino UNO to burn the bootloader or program them, in this case close the Hardware Reset jumper or you can use this board to program other Arduino boards with the 6 pin ISP connector with the standard pinout. 
 <br><br>
