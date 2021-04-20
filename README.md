@@ -1,6 +1,8 @@
 <b>
 AVR Programmer based on USBASP that can be used as a Arduino shield or standalone
 </b>
+<br>
+AVR Programmer یک پروگرمر مختص میکروکنترلر های AVR است که هم به صورت شیلد آردوینو و هم به صورت مستقل قابل استفاده است
 <br><br>
 <a href="https://raw.githubusercontent.com/skopusdotorg/AVR-Programmer/main/Images/AVR-Programmer-3d-view.jpg"><img alt="" src="https://raw.githubusercontent.com/skopusdotorg/AVR-Programmer/main/Images/AVR-Programmer-3d-view.jpg" style="width: 800px; height: 533px;" /></a>
 <br><br>
