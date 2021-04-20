@@ -66,9 +66,9 @@ Here are some more pictures for your visual pleasure I guess...
 <br>
 <a href="https://raw.githubusercontent.com/skopusdotorg/AVR-Programmer/main/Images/AVR-Programmer-top-view-with-components.jpg"><img alt="" src="https://raw.githubusercontent.com/skopusdotorg/AVR-Programmer/main/Images/AVR-Programmer-top-view-with-components.jpg" style="width: 800px; height: 533px;" /></a>
 <br>
-<a href="https://raw.githubusercontent.com/skopusdotorg/AVR-Programmer/main/Images/AVR-Programmer-bottom-view-with-components.jpg"><img alt="https://raw.githubusercontent.com/skopusdotorg/AVR-Programmer/main/Images/AVR-Programmer-bottom-view-with-components.jpg" src="" style="width: 800px; height: 533px;" /></a>
+<a href="https://raw.githubusercontent.com/skopusdotorg/AVR-Programmer/main/Images/AVR-Programmer-bottom-view-with-components.jpg"><img alt="" src="https://raw.githubusercontent.com/skopusdotorg/AVR-Programmer/main/Images/AVR-Programmer-bottom-view-with-components.jpg" style="width: 800px; height: 533px;" /></a>
 <br>
-<a href="https://raw.githubusercontent.com/skopusdotorg/AVR-Programmer/main/Images/AVR-Programmer-top-view-without-components.jpg"><img alt="https://raw.githubusercontent.com/skopusdotorg/AVR-Programmer/main/Images/AVR-Programmer-top-view-without-components.jpg" src="" style="width: 800px; height: 533px;" /></a>
+<a href="https://raw.githubusercontent.com/skopusdotorg/AVR-Programmer/main/Images/AVR-Programmer-top-view-without-components.jpg"><img alt="" src="https://raw.githubusercontent.com/skopusdotorg/AVR-Programmer/main/Images/AVR-Programmer-top-view-without-components.jpg" style="width: 800px; height: 533px;" /></a>
 <br>
-<a href=""><img alt="https://raw.githubusercontent.com/skopusdotorg/AVR-Programmer/main/Images/AVR-Programmer-bottom-view-without-components.jpg" src="https://raw.githubusercontent.com/skopusdotorg/AVR-Programmer/main/Images/AVR-Programmer-bottom-view-without-components.jpg" style="width: 800px; height: 533px;" /></a>
+<a href="https://raw.githubusercontent.com/skopusdotorg/AVR-Programmer/main/Images/AVR-Programmer-bottom-view-without-components.jpg"><img alt="" src="https://raw.githubusercontent.com/skopusdotorg/AVR-Programmer/main/Images/AVR-Programmer-bottom-view-without-components.jpg" style="width: 800px; height: 533px;" /></a>
 <br>
