@@ -30,7 +30,31 @@ To my understanding you need to have one AVR programmer or at least an Arduino U
 <br><br>
 
 <b>
-What can I do with AAVR-Programmer as standalone USBASP?
+What can I do with AVR-Programmer as standalone USBASP?
 </b><br>
 Well in this case you can use the Micro USB port to burn the bootloader or program any AVR MCUs that are supported by USBASP. You can directly plug it on Arduino UNO to burn the bootloader or program them, in this case close the Hardware Reset jumper or you can use this board to program other Arduino boards with the 6 pin ISP connector with the standard pinout. 
+<br><br>
+
+<b>
+What are those jumpers for?
+</b><br>
+I think it's really self explanatory but there are 3 jumpers on this board. One is called "Self Programming" this jumper is used to program the on board MCU and its job is to connect U1 RST pin to the rest of RESET pins. Another one is called "Slow SCK" this is used to slow down the clock of SCK pin and the last one is called "Hardware Reset" this is used to connect Arduino UNO's RST Pin to the rest of RESET pins to be able to put Arduino UNO boards into programming mode.
+<br><br>
+
+<b>
+How can I use this?
+</b><br>
+First you need to send the Gerber files from Gerber X2 folder to your fav PCB manufacturer and wait until they make the PCB for you and the you need to buy the necessary components according to the bill of material and when everything arrived careful solder them to the PCB and use it.
+<br><br>
+
+<b>
+For more advanced users...
+</b><br>
+For more advanced users, I've left the original design so you can change anything you want. This board was designed by Altium Designer V20.
+<br><br>
+
+<b>
+How can you find me?
+</b><br>
+I will leave my Instagram on this GitHub just in case you needed to contact me for any reason... Instagram @ skopusdotorg
 <br><br>
